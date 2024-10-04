@@ -10,8 +10,9 @@ I'm a **Computer Science and Engineering** student at the University of Chittago
 
 ## Educational Projects
 
-### Arduino-Based Fire Detection System
-A real-time fire detection system using **KY-026 flame sensors**, **Arduino Uno**, and an **I2C LCD display** to monitor flames and activate a motorized water pump.
+### Arduino-Based Fire Fighter Robot
+A real-time fire detection system using **KY-026 flame sensors**, **Arduino Uno**, and an **I2C LCD display** to monitor flames and activate a motorized water pump and BO motor to move the robot where fire
+is ditected. It will automatically stop before the fire and start the pump which will throw water on the fire and extinguish the fire 
 
 - 🔧 Technologies used: Arduino, C++, Flame Sensors, LCD Display
 - 💻 [Project Repository](https://github.com/monir235/arduino-fire-detection)
