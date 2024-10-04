@@ -15,7 +15,7 @@ A real-time fire detection system using **KY-026 flame sensors**, **Arduino Uno*
 is ditected. It will automatically stop before the fire and start the pump which will throw water on the fire and extinguish the fire 
 
 - 🔧 Technologies used: Arduino, C++, Flame Sensors, LCD Display
-- 💻 [Project Repository](https://github.com/monir235/arduino-fire-detection)
+- 💻 [Project Repository]([https://github.com/monir235/arduino-fire-detection](https://github.com/monir235/Fire_Fighter_Robot))
 
 ### Tutor Hub - Local Tutoring Platform
 A web application that connects students with local tutors based on their location and subject preferences.
