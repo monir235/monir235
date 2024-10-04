@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Monir 👋
 
-<!--
-**monir235/monir235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a **Computer Science and Engineering** student at the University of Chittagong, passionate about **software development**, **web development**, and **IoT projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on an Arduino project with **flame sensors** and an **I2C LCD** display.
+- 🌱 I’m learning **React.js**, **Node.js**, and **full-stack development**.
+- 👨‍💻 Check out my [latest frontend project](https://github.com/monir235/local-tutor-hub).
+
+## Educational Projects
+
+### Arduino-Based Fire Detection System
+A real-time fire detection system using **KY-026 flame sensors**, **Arduino Uno**, and an **I2C LCD display** to monitor flames and activate a motorized water pump.
+
+- 🔧 Technologies used: Arduino, C++, Flame Sensors, LCD Display
+- 💻 [Project Repository](https://github.com/monir235/arduino-fire-detection)
+
+### Tutor Hub - Local Tutoring Platform
+A web application that connects students with local tutors based on their location and subject preferences.
+
+- 🔧 Technologies used: React, Node.js, MySQL
+- 💻 [Project Repository](https://github.com/monir235/local-tutor-hub)
+
+## Skills
+- Programming Languages: C, C++, Python, JavaScript
+- Frameworks: React, Express, Node.js
+- Databases: MySQL, SQLite
+- Version Control: Git, GitHub
+
+## Connect with Me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/monir235](https://www.linkedin.com/in/sirajum-monir-choyon-244b17267/))
+- 📧 Email: chayonayon71@gmail.com
