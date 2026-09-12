@@ -4,9 +4,7 @@
 
 I'm a **Computer Science and Engineering** student at the University of Chittagong, passionate about **software development**, **web development**, and **IoT projects**.
 
-- 🔭 Currently working on an Arduino project with **flame sensors** and an **I2C LCD** display.
-- 🌱 I’m learning **React.js**, **Node.js**, and **full-stack development**.
-- 👨‍💻 Check out my [latest frontend project](https://github.com/monir235/local-tutor-hub).
+
 
 ## Educational Projects
 
